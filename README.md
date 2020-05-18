@@ -1,9 +1,9 @@
-
 <p align="center"><img width="400px" src="http://dotnetify.net/content/images/dotnetify-logo.png"></p>
 
 ![alt build](https://ci.appveyor.com/api/projects/status/github/dsuryd/dotnetify?svg=true)
 [![npm version](https://badge.fury.io/js/dotnetify.svg)](https://badge.fury.io/js/dotnetify)
-[![NuGet](https://img.shields.io/nuget/v/DotNetify.SignalR.svg?style=flat-square)](https://www.nuget.org/packages/DotNetify.SignalR/) 
+[![NuGet](https://img.shields.io/nuget/v/DotNetify.SignalR.svg?style=flat-square)](https://www.nuget.org/packages/DotNetify.SignalR/) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSerubin%2FdotNetify.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSerubin%2FdotNetify?ref=badge_shield)
+
 
 DotNetify is a free, open source project that lets you create real-time, reactive, cross-platform apps with [React](https://facebook.github.io/react/), [React Native](https://facebook.github.io/react-native/), [Vue](https://vuejs.org) or [Knockout](http://knockoutjs.com) front-end on C# .NET back-end via WebSocket (SignalR). 
 
@@ -58,6 +58,9 @@ Read the website on how to configure your project.
 
 ## License
 Licensed under the Apache License, Version 2.0.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSerubin%2FdotNetify.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSerubin%2FdotNetify?ref=badge_large)
 
 ## Contributing
 All contribution is welcome: star this project, let others know about it, report issues, submit pull requests!

@@ -32,7 +32,7 @@
     "@aspnet/signalr-protocol-msgpack": "^1.1.0",
     "@types/node": "^14.0.1",
     "chartjs-plugin-streaming": "~1.7.1",
-    "dotnetify-elements": "^1.4.0",
+    "dotnetify-elements": "^1.5.2",
     "jquery": "~3.6.0",
     "jquery-deferred": "^0.3.1",
     "jsdom": "^16.2.2",
